@@ -238,7 +238,7 @@ The `pom.xml` file includes 30+ vulnerable and outdated dependencies:
 
 ### Critical Vulnerabilities
 
-1. **Log4j 2.14.1** - Log4Shell
+1. **Log4j 2.26.1** - Log4Shell (CVE-2021-44228 remediated; upgraded from 2.14.1)
    - CVE-2021-44228 (CVSS 10.0)
    - CVE-2021-45046 (CVSS 9.0)
    - Remote Code Execution
